@@ -4,7 +4,7 @@ QuickNotes is a small open-source note-taking application written in C#. It is c
 
   **PLANNED FEATURES:**
    
-   1. Ability to make .txt files quickly, no paid subscription or notepad knowlege required.
+   1. Ability to make notes like Microsoft word, no paid subscription.
    2. **Bold**, _Italic_ and Underlined text.
    3. Clean and simple UI
    4. Ability to edit existing text files and save them as new ones.
