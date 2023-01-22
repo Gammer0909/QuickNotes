@@ -99,7 +99,7 @@ public class NewFile
         } else
         {
 
-            StreamWriter writer = new StreamWriter(Path.Combine(pathToDocuments, "QuickNotesUntitled.txt"));
+            StreamWriter writer = new StreamWriter(Path.Combine(pathToDocuments + "QuickNotesUntitled.txt"));
             int done = 0;
             while (done == 0)
             {
