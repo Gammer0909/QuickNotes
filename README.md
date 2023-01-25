@@ -12,10 +12,13 @@ QuickNotes is a small open-source note-taking application written in C#. It is c
    These might change as development goes on, I will change the README.md as (if) they do.
    
    
+   Quicknotes doesn't save your text in a special file format that you can only open with a fancy document-maker. Instead, it saves them in a .txt file, so you can edit them with whatever you want.
    
    
    
    This project is made entirely by me.
-   If you wish to follow the project, hit the "Follow" button. It would help me out a lot.
+   If you wish to follow the project, star and watch it, that would help me a lot.
    
-   :D
+   Thank you for looking at my project
+       
+       
